@@ -6,6 +6,6 @@ A basic example of a pagination using HTML, CSS, PHP and a connection to a MySQL
 - Database user: *root* (no password).
 - Connection to database goes on the `index.php` file (using [PDO](https://www.php.net/manual/en/book.pdo.php) as connection method).
 
-<sub><sup>Project created thanks to [Carlos Arturo
-Esparza](https://twitter.com/falconmasters) and [its PHP
-course](https://www.udemy.com/course/php-y-mysql/)</sup></sub>
+<small>Project created thanks to [Carlos Arturo
+Esparza](https://twitter.com/falconmasters) and its wonderfull [PHP
+course](https://www.udemy.com/course/php-y-mysql/).</small>
